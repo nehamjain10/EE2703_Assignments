@@ -1,0 +1,5 @@
+The voltage at node GND is: 0.0 V
+The voltage at node 1 is: -10.0 V
+The voltage at node 2 is: -5.0 V
+The voltage at node 3 is: -0.83333 V
+The current through voltage source V1 is: 2.5 A

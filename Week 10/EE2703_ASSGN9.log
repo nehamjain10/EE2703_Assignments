@@ -1,0 +1,400 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.14)  12 MAY 2021 17:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/neham/Desktop/Sem4/EE2703/Week 10/EE2703_ASSGN9.tex"
+(/home/neham/Desktop/Sem4/EE2703/Week 10/EE2703_ASSGN9.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\lst@mode=\count175
+\lst@gtempboxa=\box45
+\lst@token=\toks17
+\lst@length=\count176
+\lst@currlwidth=\dimen135
+\lst@column=\count177
+\lst@pos=\count178
+\lst@lostspace=\dimen136
+\lst@width=\dimen137
+\lst@newlines=\count179
+\lst@lineno=\count180
+\lst@maxwidth=\dimen138
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count181
+\lst@skipnumbers=\count182
+\lst@framebox=\box46
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count183
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count184
+\Gm@cntv=\count185
+\c@Gm@tempcnt=\count186
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen147
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks20
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks21
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen156
+\captionmargin@=\dimen157
+\captionwidth=\dimen158
+\caption@tempdima=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count267
+\sf@farskip=\skip54
+\sf@captopadj=\dimen163
+\sf@capskip=\skip55
+\sf@nearskip=\skip56
+\c@subfigure=\count268
+\c@subfigure@save=\count269
+\c@lofdepth=\count270
+\c@subtable=\count271
+\c@subtable@save=\count272
+\c@lotdepth=\count273
+\sf@top=\skip57
+\sf@bottom=\skip58
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read2
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count274
+\l__pdf_internal_box=\box49
+) (/home/neham/Desktop/Sem4/EE2703/Week 10/EE2703_ASSGN9.aux)
+\openout1 = `EE2703_ASSGN9.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+\c@lstlisting=\count275
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 3.73001pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen166
+\scratchbox=\box50
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen167
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<plots/sin(sqrt(2).png, id=10, 867.24pt x 578.16pt>
+File: plots/sin(sqrt(2).png Graphic file (type png)
+<use plots/sin(sqrt(2).png>
+Package pdftex.def Info: plots/sin(sqrt(2).png  used on input line 70.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--74
+
+ []
+
+[2 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/sin(sqrt(2).png>]
+<plots/sin(sqrt(2)_plot.png, id=24, 867.24pt x 578.16pt>
+File: plots/sin(sqrt(2)_plot.png Graphic file (type png)
+<use plots/sin(sqrt(2)_plot.png>
+Package pdftex.def Info: plots/sin(sqrt(2)_plot.png  used on input line 78.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+<plots/wrapped_sin.png, id=25, 867.24pt x 578.16pt>
+File: plots/wrapped_sin.png Graphic file (type png)
+<use plots/wrapped_sin.png>
+Package pdftex.def Info: plots/wrapped_sin.png  used on input line 89.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+<plots/ramp.png, id=26, 867.24pt x 578.16pt>
+File: plots/ramp.png Graphic file (type png)
+<use plots/ramp.png>
+Package pdftex.def Info: plots/ramp.png  used on input line 98.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [3 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/sin(sqrt(2)_plot.png> </home/neham/Desktop/Sem4/EE2703/Week 10/plots/wrapped_sin.png>]
+<plots/windowed_sin.png, id=34, 867.24pt x 578.16pt>
+File: plots/windowed_sin.png Graphic file (type png)
+<use plots/windowed_sin.png>
+Package pdftex.def Info: plots/windowed_sin.png  used on input line 114.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [4 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/ramp.png> </home/neham/Desktop/Sem4/EE2703/Week 10/plots/windowed_sin.png>] [5]
+<plots/sin_sqrt2_window1.png, id=44, 867.24pt x 578.16pt>
+File: plots/sin_sqrt2_window1.png Graphic file (type png)
+<use plots/sin_sqrt2_window1.png>
+Package pdftex.def Info: plots/sin_sqrt2_window1.png  used on input line 171.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+<plots/sin_sqrt2_window2.png, id=45, 867.24pt x 578.16pt>
+File: plots/sin_sqrt2_window2.png Graphic file (type png)
+<use plots/sin_sqrt2_window2.png>
+Package pdftex.def Info: plots/sin_sqrt2_window2.png  used on input line 181.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [6
+
+ </home/neham/Desktop/Sem4/EE2703/Week 10/plots/sin_sqrt2_window1.png> </home/neham/Desktop/Sem4/EE2703/Week 10/plots/sin_sqrt2_window2.png>] [7]
+<plots/cos^3_wo.png, id=57, 867.24pt x 578.16pt>
+File: plots/cos^3_wo.png Graphic file (type png)
+<use plots/cos^3_wo.png>
+Package pdftex.def Info: plots/cos^3_wo.png  used on input line 291.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+<plots/cos^3_with.png, id=58, 867.24pt x 578.16pt>
+File: plots/cos^3_with.png Graphic file (type png)
+<use plots/cos^3_with.png>
+Package pdftex.def Info: plots/cos^3_with.png  used on input line 299.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [8 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/cos^3_wo.png>]
+<plots/normal_cosine.png, id=63, 867.24pt x 578.16pt>
+File: plots/normal_cosine.png Graphic file (type png)
+<use plots/normal_cosine.png>
+Package pdftex.def Info: plots/normal_cosine.png  used on input line 329.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+<plots/noisy_cosine.png, id=64, 867.24pt x 578.16pt>
+File: plots/noisy_cosine.png Graphic file (type png)
+<use plots/noisy_cosine.png>
+Package pdftex.def Info: plots/noisy_cosine.png  used on input line 348.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [9 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/cos^3_with.png>]
+<plots/chirp_wo.png, id=70, 867.24pt x 578.16pt>
+File: plots/chirp_wo.png Graphic file (type png)
+<use plots/chirp_wo.png>
+Package pdftex.def Info: plots/chirp_wo.png  used on input line 380.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [10 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/normal_cosine.png> </home/neham/Desktop/Sem4/EE2703/Week 10/plots/noisy_cosine.png>]
+<plots/chirp_with.png, id=76, 867.24pt x 578.16pt>
+File: plots/chirp_with.png Graphic file (type png)
+<use plots/chirp_with.png>
+Package pdftex.def Info: plots/chirp_with.png  used on input line 390.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [11 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/chirp_wo.png> </home/neham/Desktop/Sem4/EE2703/Week 10/plots/chirp_with.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 397--401
+
+ []
+
+<plots/non_windowed_surfacemag.png, id=82, 867.24pt x 578.16pt>
+File: plots/non_windowed_surfacemag.png Graphic file (type png)
+<use plots/non_windowed_surfacemag.png>
+Package pdftex.def Info: plots/non_windowed_surfacemag.png  used on input line 408.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+<plots/non_windowed_surfaceangles.png, id=83, 867.24pt x 578.16pt>
+File: plots/non_windowed_surfaceangles.png Graphic file (type png)
+<use plots/non_windowed_surfaceangles.png>
+Package pdftex.def Info: plots/non_windowed_surfaceangles.png  used on input line 415.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+[12 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/non_windowed_surfacemag.png> </home/neham/Desktop/Sem4/EE2703/Week 10/plots/non_windowed_surfaceangles.png>]
+<plots/windowed_surfacemag.png, id=90, 867.24pt x 578.16pt>
+File: plots/windowed_surfacemag.png Graphic file (type png)
+<use plots/windowed_surfacemag.png>
+Package pdftex.def Info: plots/windowed_surfacemag.png  used on input line 427.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+<plots/windowed_surfaceangles.png, id=91, 867.24pt x 578.16pt>
+File: plots/windowed_surfaceangles.png Graphic file (type png)
+<use plots/windowed_surfaceangles.png>
+Package pdftex.def Info: plots/windowed_surfaceangles.png  used on input line 434.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+ [13 </home/neham/Desktop/Sem4/EE2703/Week 10/plots/windowed_surfacemag.png> </home/neham/Desktop/Sem4/EE2703/Week 10/plots/windowed_surfaceangles.png>] [14] (/home/neham/Desktop/Sem4/EE2703/Week 10/EE2703_ASSGN9.aux) ) 
+Here is how much of TeX's memory you used:
+ 5954 strings out of 483183
+ 86245 string characters out of 5966291
+ 540621 words of memory out of 5000000
+ 20911 multiletter control sequences out of 15000+600000
+ 539836 words of font info for 51 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 50i,8n,48p,272b,1668s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/neham/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on "/home/neham/Desktop/Sem4/EE2703/Week 10/EE2703_ASSGN9.pdf" (14 pages, 1095424 bytes).
+PDF statistics:
+ 162 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
